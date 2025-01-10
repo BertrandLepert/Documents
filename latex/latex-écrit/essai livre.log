@@ -1,0 +1,2508 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.12.19)  19 DEC 2024 16:02
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"essai livre.tex"
+(./essai livre.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-01-16>
+(/usr/share/texlive/texmf-dist/tex/latex/extsizes/extbook.cls
+Document Class: extbook 1999/01/07 v1.4a NON-Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/extsizes/size20.clo
+File: size20.clo 1999/11/11 NON-Standard LaTeX file (size option)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/exscale.sty
+Package: exscale 2018/09/24 v2.1i Standard LaTeX package exscale
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+\big@size=\dimen140
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen141
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2022/12/26 3.84 The Babel package
+\babel@savecnt=\count194
+\U@D=\dimen142
+\l@unhyphenated=\language39
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count195
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel-french/french.ldf
+Language: french 2023/01/02 v3.5p French support from the babel system
+Package babel Info: Hyphen rules for 'acadian' set to \l@french
+(babel)             (\language38). Reported on input line 91.
+Package babel Info: Hyphen rules for 'canadien' set to \l@french
+(babel)             (\language38). Reported on input line 92.
+\FB@nonchar=\count196
+Package babel Info: Making : an active character on input line 395.
+Package babel Info: Making ; an active character on input line 396.
+Package babel Info: Making ! an active character on input line 397.
+Package babel Info: Making ? an active character on input line 398.
+\FBguill@level=\count197
+\FBold@everypar=\toks16
+\FB@Mht=\dimen143
+\mc@charclass=\count198
+\mc@charfam=\count199
+\mc@charslot=\count266
+\std@mcc=\count267
+\dec@mcc=\count268
+\listindentFB=\dimen144
+\descindentFB=\dimen145
+\labelindentFB=\dimen146
+\labelwidthFB=\dimen147
+\leftmarginFB=\dimen148
+\parindentFFN=\dimen149
+\FBfnindent=\dimen150
+))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/fr/babel-french.tex
+Package babel Info: Importing font and identification data for french
+(babel)             from babel-fr.ini. Reported on input line 11.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/carlisle/scalefnt.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks18
+\inpenc@posthook=\toks19
+)
+(/usr/share/texmf/tex/latex/lm/lmodern.sty
+Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/import/import.sty
+Package: import 2020/04/01  v 6.2
+)
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box51
+\beforetitleunit=\skip50
+\aftertitleunit=\skip51
+\ttl@plus=\dimen151
+\ttl@minus=\dimen152
+\ttl@toksa=\toks20
+\titlewidth=\dimen153
+\titlewidthlast=\dimen154
+\titlewidthfirst=\dimen155
+)
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titletoc.sty
+Package: titletoc 2021/07/05 v2.14 TOC entries
+\ttl@leftsep=\dimen156
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen157
+\Gin@req@width=\dimen158
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2022-11-13 v7.00u Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count269
+)
+\@linkdim=\dimen159
+\Hy@linkcounter=\count270
+\Hy@pagecounter=\count271
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2022-11-13 v7.00u Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count272
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2022-11-13 v7.00u Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4162.
+Package hyperref Info: Link nesting OFF on input line 4167.
+Package hyperref Info: Hyper index ON on input line 4170.
+Package hyperref Info: Plain pages OFF on input line 4177.
+Package hyperref Info: Backreferencing OFF on input line 4182.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4410.
+\c@Hy@tempcnt=\count273
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4748.
+\XeTeXLinkMargin=\dimen160
+
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count274
+\Field@Width=\dimen161
+\Fld@charsize=\dimen162
+Package hyperref Info: Hyper figures OFF on input line 6027.
+Package hyperref Info: Link nesting OFF on input line 6032.
+Package hyperref Info: Hyper index ON on input line 6035.
+Package hyperref Info: backreferencing OFF on input line 6042.
+Package hyperref Info: Link coloring OFF on input line 6047.
+Package hyperref Info: Link coloring with OCG OFF on input line 6052.
+Package hyperref Info: PDF/A mode OFF on input line 6057.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count275
+\c@Item=\count276
+\c@Hfootnote=\count277
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2022-11-13 v7.00u Hyperref driver for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count278
+\c@bookmark@seq@number=\count279
+
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip52
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count280
+\Gm@cntv=\count281
+\c@Gm@tempcnt=\count282
+\Gm@bindingoffset=\dimen163
+\Gm@wd@mp=\dimen164
+\Gm@odd@mp=\dimen165
+\Gm@even@mp=\dimen166
+\Gm@layoutwidth=\dimen167
+\Gm@layoutheight=\dimen168
+\Gm@layouthoffset=\dimen169
+\Gm@layoutvoffset=\dimen170
+\Gm@dimlist=\toks21
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip53
+\f@nch@O@elh=\skip54
+\f@nch@O@erh=\skip55
+\f@nch@O@olh=\skip56
+\f@nch@O@orh=\skip57
+\f@nch@O@elf=\skip58
+\f@nch@O@erf=\skip59
+\f@nch@O@olf=\skip60
+\f@nch@O@orf=\skip61
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2022/12/19 v0.5x Insert pages of external PDF documents (AM)
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count283
+\calc@Bcount=\count284
+\calc@Adimen=\dimen171
+\calc@Bdimen=\dimen172
+\calc@Askip=\skip62
+\calc@Bskip=\skip63
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count285
+\calc@Cskip=\skip64
+)
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen173
+\ESO@tempdimb=\dimen174
+
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+))
+\AM@pagewidth=\dimen175
+\AM@pageheight=\dimen176
+\AM@fboxrule=\dimen177
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2022/12/19 v0.5x Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count286
+\AM@pagebox=\box52
+\AM@global@opts=\toks22
+\AM@pagecnt=\count287
+\AM@toc@title=\toks23
+\AM@lof@heading=\toks24
+\c@AM@survey=\count288
+\AM@templatesizebox=\box53
+)
+(/usr/share/texlive/texmf-dist/tex/latex/lineno/lineno.sty
+Package: lineno 2023/01/19 line numbers on paragraphs v5.1
+\linenopenalty=\count289
+\output=\toks25
+\linenoprevgraf=\count290
+\linenumbersep=\dimen178
+\linenumberwidth=\dimen179
+\c@linenumber=\count291
+\c@pagewiselinenumber=\count292
+\c@LN@truepage=\count293
+\c@internallinenumber=\count294
+\c@internallinenumbers=\count295
+\quotelinenumbersep=\dimen180
+\bframerule=\dimen181
+\bframesep=\dimen182
+\bframebox=\box54
+
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count296
+)
+LaTeX Info: Redefining \\ on input line 3131.
+)
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 76
+.
+
+(/usr/share/texmf/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count297
+\l__pdf_internal_box=\box55
+)
+(./essai livre.aux (./livre1.aux) (./livre2.aux) (./livre3.aux))
+\openout1 = `"essai livre.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Info: Redefining \degres on input line 76.
+LaTeX Info: Redefining \up on input line 76.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count298
+\scratchdimen=\dimen183
+\scratchbox=\box56
+\nofMPsegments=\count299
+\nofMParguments=\count300
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count301
+\MPscratchDim=\dimen184
+\MPnumerator=\count302
+\makeMPintoPDFobject=\count303
+\everyMPtoPDFconversion=\toks27
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package hyperref Info: Link coloring OFF on input line 76.
+
+(./essai livre.out) (./essai livre.out)
+\@outlinefile=\write3
+\openout3 = `"essai livre.out"'.
+
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(81.94388pt, 392.64812pt, 122.91588pt)
+* v-part:(T,H,B)=(110.39667pt, 569.05511pt, 165.59506pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=392.64812pt
+* \textheight=569.05511pt
+* \oddsidemargin=9.67389pt
+* \evensidemargin=50.64589pt
+* \topmargin=-11.87332pt
+* \headheight=20.0pt
+* \headsep=30.0pt
+* \topskip=20.0pt
+* \footskip=35.0pt
+* \marginparwidth=43.0pt
+* \marginparsep=15.0pt
+* \columnsep=10.0pt
+* \skip\footins=16.0pt plus 6.0pt minus 3.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+F (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+))
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 8
+0.
+
+(/usr/share/texmf/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 8
+0.
+
+(/usr/share/texmf/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+80.
+
+(/usr/share/texmf/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+80.
+
+(/usr/share/texmf/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <24.88> on input line 80.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <20.74> on input line 80.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <17.28> on input line 80.
+<arbre.jpg, id=88, 52.998pt x 52.998pt>
+File: arbre.jpg Graphic file (type jpg)
+<use arbre.jpg>
+Package pdftex.def Info: arbre.jpg  used on input line 80.
+(pdftex.def)             Requested size: 93.90347pt x 93.89418pt.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./arbre.jpg>] [2]
+Overfull \hbox (19.29616pt too wide) in paragraph at lines 103--104
+\T1/lmr/m/n/20.74 ac-ces-sible pos-sible, mais cer-tains cha-pitres peuvent
+ []
+
+[3
+
+] [4]
+Overfull \hbox (2.19427pt too wide) in paragraph at lines 120--121
+[]\T1/lmr/bx/it/20.74 "La na-ture d'une ci-vi-li-sa-tion,
+ []
+
+[5
+
+] (./essai livre.toc
+Overfull \hbox (1.02922pt too wide) in paragraph at lines 2--2
+[]|[]\T1/lmr/m/n/20.74 I Sur les prin-cipes de la créa-tion hu-maine 
+ []
+
+
+Overfull \hbox (0.20203pt too wide) in paragraph at lines 5--5
+[]|| [][]\T1/lmr/m/n/14.4 De l'im-pos-si-bi-lité de l'en-gen-dre-ment de l'uni-
+vers par l'ac- 
+ []
+
+[6
+
+])
+\tf@toc=\write4
+\openout4 = `"essai livre.toc"'.
+
+ [7]
+\openout2 = `livre1.aux'.
+
+ (./livre1.tex [8
+
+
+]
+Chapitre 1.
+
+Overfull \hbox (61.26816pt too wide) in paragraph at lines 3--3
+|\T1/lmr/bx/n/33 Introduction : Des croyances
+ []
+
+[9
+
+]
+Overfull \hbox (17.33199pt too wide) in paragraph at lines 11--12
+\T1/lmr/m/n/20.74 en au-cun cas pos-sé-der des croyances. Les croyances
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 32.01984pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.01984pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-12.01984pt}.
+
+[10]
+Overfull \hbox (1.06839pt too wide) in paragraph at lines 13--14
+\T1/lmr/m/n/20.74 dioses, qu'elles soient in-di-vi-duelles ou col-lec-tives,
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 32.01984pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.01984pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-12.01984pt}.
+
+[11]
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 32.01984pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.01984pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-12.01984pt}.
+
+[12]
+Overfull \hbox (6.57993pt too wide) in paragraph at lines 32--32
+[]\T1/lmr/m/it/20.74 "laissons au peuple le soin de croire
+ []
+
+
+Overfull \hbox (10.71751pt too wide) in paragraph at lines 32--32
+\T1/lmr/m/it/20.74 que la science va réel-le-ment au fond
+ []
+
+
+Overfull \hbox (13.78342pt too wide) in paragraph at lines 35--36
+[]\T1/lmr/m/n/20.74 Ayant bé-né-fi-cié d'un cur-sus uni-ver-si-taire scien-
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 32.01984pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.01984pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-12.01984pt}.
+
+[13]
+Chapitre 2.
+
+Overfull \hbox (22.31029pt too wide) in paragraph at lines 37--37
+\T1/lmr/bx/n/33 aux rai-son-ne-ments qui dé-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [14
+
+]
+Overfull \hbox (1.20892pt too wide) in paragraph at lines 43--44
+\T1/lmr/m/n/20.74 dé-mon-trer et sont donc uti-li-sées comme axiomes.
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 52.30484pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.30484pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-32.30484pt}.
+
+[15]
+Overfull \hbox (28.63522pt too wide) in paragraph at lines 47--48
+\T1/lmr/m/n/20.74 met éga-le-ment de dé-ter-mi-ner une tra-jec-toire lorsque
+ []
+
+
+Overfull \hbox (0.4666pt too wide) in paragraph at lines 53--54
+[]\T1/lmr/m/n/20.74 "L'Action est pro-por-tion-nelle au pro-
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 52.30484pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.30484pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-32.30484pt}.
+
+[16]
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 52.30484pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.30484pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-32.30484pt}.
+
+[17]
+Overfull \hbox (4.39787pt too wide) in paragraph at lines 64--65
+\T1/lmr/m/n/20.74 mettent des axiomes consi-dé-rés comme in-dé-mon-
+ []
+
+
+Overfull \hbox (18.71645pt too wide) in paragraph at lines 64--65
+\T1/lmr/m/n/20.74 trables, éma-nant de consi-dé-ra-tions mé-ta-phy-siques,
+ []
+
+
+Overfull \hbox (1.00735pt too wide) in paragraph at lines 66--67
+\T1/lmr/m/n/20.74 l'in-ter-ac-tion di-vine, ou du moins le prin-cipe créa-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 52.30484pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.30484pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-32.30484pt}.
+
+[18]
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 52.30484pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.30484pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-32.30484pt}.
+
+[19]
+Chapitre 3.
+
+Overfull \hbox (10.25978pt too wide) in paragraph at lines 77--77
+|\T1/lmr/bx/n/33 De l'im-pos-si-bi-lité de l'en-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [20
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 52.30484pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.30484pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-32.30484pt}.
+
+[21]
+Overfull \hbox (4.71191pt too wide) in paragraph at lines 85--86
+\T1/lmr/m/n/20.74 sède une exis-tence concrète, il reste tout de même
+ []
+
+
+Overfull \hbox (0.17555pt too wide) in paragraph at lines 87--88
+\T1/lmr/m/n/20.74 çant leur com-por-te-ment. Le ha-sard est donc tout
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 52.30484pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.30484pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-32.30484pt}.
+
+[22]
+Overfull \hbox (0.8632pt too wide) in paragraph at lines 89--90
+\T1/lmr/m/n/20.74 pli-quant des étants déjà exis-tants. Pour un scien-
+ []
+
+
+Overfull \hbox (5.92818pt too wide) in paragraph at lines 91--92
+[]\T1/lmr/m/n/20.74 Cependant, la phy-sique ne s'at-tache qu'à trai-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 52.30484pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.30484pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-32.30484pt}.
+
+[23]
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 52.30484pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.30484pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-32.30484pt}.
+
+[24]
+Chapitre 4.
+
+Overfull \hbox (79.71518pt too wide) in paragraph at lines 103--103
+|\T1/lmr/bx/n/33 Démonstration phi-lo-so-phique
+ []
+
+
+Overfull \hbox (10.60904pt too wide) in paragraph at lines 103--103
+\T1/lmr/bx/n/33 de l'exis-tence du prin-cipe
+ []
+
+
+Overfull \hbox (40.70912pt too wide) in paragraph at lines 103--103
+\T1/lmr/bx/n/33 créa-teur et mise en exergue
+ []
+
+
+Overfull \hbox (5.45811pt too wide) in paragraph at lines 105--106
+[]\T1/lmr/m/n/20.74 Commençons par dé-fi-nir le néant comme l'ab-
+ []
+
+
+Overfull \hbox (11.51732pt too wide) in paragraph at lines 105--106
+\T1/lmr/m/n/20.74 sence de toute chose in-clu-rait l'ab-sence d'un néant
+ []
+
+
+Underfull \vbox (badness 6477) has occurred while \output is active []
+
+ [25
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 52.30484pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.30484pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-32.30484pt}.
+
+[26]
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 52.30484pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.30484pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-32.30484pt}.
+
+[27]
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <14.4> on input line 118.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 118.
+
+Overfull \hbox (7.6867pt too wide) in paragraph at lines 120--121
+\T1/lmr/m/n/20.74 chose im-pli-que-rait un re-tour au néant qui, comme
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 52.30484pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.30484pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-32.30484pt}.
+
+[28]
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 52.30484pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.30484pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-32.30484pt}.
+
+[29]
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 52.30484pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.30484pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-32.30484pt}.
+
+[30]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 52.30484pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.30484pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-32.30484pt}.
+
+[31]
+Overfull \hbox (7.55922pt too wide) in paragraph at lines 150--151
+\T1/lmr/m/n/20.74 L'éner-gie se conserve mais se dis-sipe sous d'autres
+ []
+
+
+Overfull \hbox (17.95749pt too wide) in paragraph at lines 150--151
+\T1/lmr/m/n/20.74 d'autres phé-no-mènes ex-té-rieurs au frag-ment d'uni-
+ []
+
+
+Overfull \hbox (7.64905pt too wide) in paragraph at lines 150--151
+\T1/lmr/m/n/20.74 eux-mêmes d'autres phé-no-mènes dans une boucle
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 52.30484pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.30484pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-32.30484pt}.
+
+[32]
+Overfull \hbox (21.7894pt too wide) in paragraph at lines 168--169
+\T1/lmr/m/n/20.74 fonc-tion du temps, se dis-si-pant et gé-né-rant d'autres
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 52.30484pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.30484pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-32.30484pt}.
+
+[33]
+Overfull \hbox (14.50499pt too wide) in paragraph at lines 172--173
+\T1/lmr/m/n/20.74 si l'on pos-sé-dait la connais-sance de cette loi unique
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 52.30484pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.30484pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-32.30484pt}.
+
+[34]
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 52.30484pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.30484pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-32.30484pt}.
+
+[35]
+Chapitre 5.
+
+Overfull \hbox (33.45175pt too wide) in paragraph at lines 176--177
+[]\T1/lmr/m/n/20.74 Commençons par rap-pe-ler le prin-cipe de moindre
+ []
+
+
+Overfull \hbox (8.48547pt too wide) in paragraph at lines 181--182
+[]\T1/lmr/m/n/20.74 ^^S L'Ac-tion est pro-por-tion-nelle au pro-
+ []
+
+[36
+
+]
+Overfull \hbox (1.90863pt too wide) in paragraph at lines 186--187
+\T1/lmr/m/n/20.74 mou-ve-ment des corps. Par vul-ga-ri-sa-tion, on peut
+ []
+
+
+Overfull \hbox (3.35101pt too wide) in paragraph at lines 186--187
+\T1/lmr/m/n/20.74 dire que lors-qu'un mou-ve-ment opère, celui-ci em-
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 49.01984pt, for example:
+(fancyhdr)                \setlength{\headheight}{49.01984pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-29.01984pt}.
+
+[37]
+Overfull \hbox (0.177pt too wide) in paragraph at lines 192--193
+\T1/lmr/m/n/20.74 gé-tique né-ces-saire. Au-cune ac-tion su-per-flue n'est
+ []
+
+
+Overfull \hbox (13.33723pt too wide) in paragraph at lines 194--195
+\T1/lmr/m/n/20.74 rait su-per-flu et n'au-rait donc pas lieu. Cela montre
+ []
+
+
+Overfull \hbox (1.92099pt too wide) in paragraph at lines 194--195
+\T1/lmr/m/n/20.74 que l'uni-vers pos-sède donc une rai-son à son chan-
+ []
+
+
+Overfull \hbox (2.93564pt too wide) in paragraph at lines 196--197
+\T1/lmr/m/n/20.74 l'hy-po-thèse de plu-sieurs di-vi-ni-tés se-rait d'ailleurs
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 49.01984pt, for example:
+(fancyhdr)                \setlength{\headheight}{49.01984pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-29.01984pt}.
+
+[38]
+Chapitre 6.
+
+Overfull \hbox (20.04427pt too wide) in paragraph at lines 198--198
+|\T1/lmr/bx/n/33 De l'exis-tence d'un re-père
+ []
+
+
+Overfull \hbox (16.40465pt too wide) in paragraph at lines 198--198
+\T1/lmr/bx/n/33 spa-tial ab-solu de l'uni-vers
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [39
+
+]
+Overfull \hbox (2.84007pt too wide) in paragraph at lines 204--205
+[]\T1/lmr/m/n/20.74 Dans l'his-toire, les phi-lo-sophes ont long-temps
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 52.30484pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.30484pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-32.30484pt}.
+
+[40]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 52.30484pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.30484pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-32.30484pt}.
+
+[41]
+Overfull \hbox (1.47652pt too wide) in paragraph at lines 214--215
+\T1/lmr/m/n/20.74 ment par la vo-lonté. Mais cette vo-lonté a d'abord
+ []
+
+
+Overfull \hbox (0.88391pt too wide) in paragraph at lines 214--215
+\T1/lmr/m/n/20.74 ana-logue à celle d'un au-to-mate pour trans-mettre
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 52.30484pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.30484pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-32.30484pt}.
+
+[42]
+Overfull \hbox (5.76051pt too wide) in paragraph at lines 218--219
+[]\T1/lmr/m/n/20.74 La mé-ca-nique clas-sique, dans le cadre de cette
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 52.30484pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.30484pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-32.30484pt}.
+
+[43]
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 52.30484pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.30484pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-32.30484pt}.
+
+[44]
+Chapitre 7.
+
+Overfull \hbox (0.88701pt too wide) in paragraph at lines 224--225
+[]\T1/lmr/m/n/20.74 En théo-rie des nombres, il faut d'abord consi-
+ []
+
+
+Underfull \vbox (badness 2103) has occurred while \output is active []
+
+ [45
+
+]
+Overfull \hbox (42.19456pt too wide) in paragraph at lines 234--235
+[]\T1/lmr/m/it/20.74 "Dieu c'est la juste me-sure des choses." 
+ []
+
+[46]
+Overfull \hbox (2.54736pt too wide) in paragraph at lines 245--246
+\T1/lmr/m/n/20.74 vables dans la na-ture, tels qu'une cou-leur unique,
+ []
+
+
+Overfull \hbox (0.48761pt too wide) in paragraph at lines 245--246
+\T1/lmr/m/n/20.74 celle-ci peut tou-jours se dé-com-po-ser en trois cou-
+ []
+
+[47] [48]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [49])
+[50]
+\openout2 = `livre2.aux'.
+
+ (./livre2.tex [51
+
+
+
+
+]
+Chapitre 8.
+
+Overfull \hbox (0.58496pt too wide) in paragraph at lines 5--6
+\T1/lmr/m/n/20.74 ser-ver Dieu en toute chose, d'autres, comme moi,
+ []
+
+
+Overfull \hbox (7.04007pt too wide) in paragraph at lines 9--10
+[]\T1/lmr/m/n/20.74 Si Dieu était to-ta-le-ment si-len-cieux, nous n'ob-
+ []
+
+
+Underfull \vbox (badness 1077) has occurred while \output is active []
+
+ [52
+
+]
+Overfull \hbox (13.37393pt too wide) in paragraph at lines 13--14
+[]\T1/lmr/m/n/20.74 Au moins un in-di-ca-teur in-con-tes-table est l'évo-
+ []
+
+
+Overfull \hbox (4.70593pt too wide) in paragraph at lines 15--16
+\T1/lmr/m/n/20.74 d'être tout à fait in-utile lors-qu'il s'agit de sciences
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [53]
+Overfull \hbox (2.89471pt too wide) in paragraph at lines 17--18
+[]\T1/lmr/m/n/20.74 Nous pou-vons émettre le même rai-son-ne-ment
+ []
+
+
+Overfull \hbox (2.24492pt too wide) in paragraph at lines 19--20
+\T1/lmr/m/n/20.74 buté dès son ap-pa-ri-tion. Cette re-cherche est donc
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [54]
+[55]
+Chapitre 9.
+
+Overfull \hbox (28.68642pt too wide) in paragraph at lines 27--28
+[]\T1/lmr/m/n/20.74 Les lois fon-da-men-tales de la phy-sique ne peuvent
+ []
+
+
+Overfull \hbox (30.29114pt too wide) in paragraph at lines 29--30
+[]\T1/lmr/m/n/20.74 D'autres lois, pour-tant plus per-mis-sives, peuvent
+ []
+
+
+Underfull \vbox (badness 1077) has occurred while \output is active []
+
+ [56
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 32.01984pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.01984pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-12.01984pt}.
+
+[57]
+Overfull \hbox (11.72554pt too wide) in paragraph at lines 35--36
+[]\T1/lmr/m/n/20.74 Il est tou-jours pos-sible de son-ger que le monde,
+ []
+
+
+Overfull \hbox (17.59866pt too wide) in paragraph at lines 35--36
+\T1/lmr/m/n/20.74 illu-sion, est ir-réel, et n'a au-cune exis-tence concrète.
+ []
+
+
+Overfull \hbox (1.74243pt too wide) in paragraph at lines 35--36
+\T1/lmr/m/n/20.74 sur ce su-jet, mais cette in-ter-pré-ta-tion fi-gure aussi
+ []
+
+
+Overfull \hbox (30.6349pt too wide) in paragraph at lines 35--36
+\T1/lmr/m/n/20.74 dans des croyances beau-coup plus an-ciennes, comme
+ []
+
+
+Overfull \hbox (26.48656pt too wide) in paragraph at lines 37--38
+[]\T1/lmr/m/n/20.74 Il s'agit d'un rai-son-ne-ment mé-ta-phy-sique simple
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 32.01984pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.01984pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-12.01984pt}.
+
+[58]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 32.01984pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.01984pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-12.01984pt}.
+
+[59]
+Overfull \hbox (15.527pt too wide) in paragraph at lines 49--50
+\T1/lmr/m/n/20.74 en au-rions tous une connais-sance par-faite et toutes
+ []
+
+
+Overfull \hbox (26.03226pt too wide) in paragraph at lines 56--57
+\T1/lmr/m/it/20.74 sui-vante ; Représente-toi des hommes
+ []
+
+
+Overfull \hbox (8.90271pt too wide) in paragraph at lines 56--57
+\T1/lmr/m/it/20.74 ter-raine en forme de ca-verne. Cette
+ []
+
+
+Overfull \hbox (1.92204pt too wide) in paragraph at lines 56--57
+\T1/lmr/m/it/20.74 de leurs liens. Représente-toi la lu-
+ []
+
+
+Overfull \hbox (0.86603pt too wide) in paragraph at lines 56--57
+\T1/lmr/m/it/20.74 ma-rion-nettes et qu'ils érigent pour
+ []
+
+
+Overfull \hbox (3.45851pt too wide) in paragraph at lines 56--57
+\T1/lmr/m/it/20.74 les sé-pa-rer des gens. par-dessus ces
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 32.01984pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.01984pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-12.01984pt}.
+
+[60]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 32.01984pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.01984pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-12.01984pt}.
+
+[61]
+Overfull \hbox (6.36688pt too wide) in paragraph at lines 59--60
+[]\T1/lmr/m/it/20.74 Imagine aussi, le long de ce mu-
+ []
+
+
+Overfull \hbox (27.58672pt too wide) in paragraph at lines 59--60
+\T1/lmr/m/it/20.74 ret, des hommes qui portent toutes
+ []
+
+
+Overfull \hbox (2.18025pt too wide) in paragraph at lines 59--60
+\T1/lmr/m/it/20.74 sortes d'ob-jets fa-bri-qués qui dé-
+ []
+
+
+Overfull \hbox (1.92099pt too wide) in paragraph at lines 59--60
+\T1/lmr/m/it/20.74 d'hommes et d'autres ani-maux,
+ []
+
+
+Overfull \hbox (35.12395pt too wide) in paragraph at lines 59--60
+\T1/lmr/m/it/20.74 en toute es-pèce de ma-té-riau. Parmi
+ []
+
+
+Overfull \hbox (0.88396pt too wide) in paragraph at lines 59--60
+\T1/lmr/m/it/20.74 ces por-teurs, c'est bien nor-mal,
+ []
+
+
+Overfull \hbox (40.80843pt too wide) in paragraph at lines 59--60
+\T1/lmr/m/it/20.74 cer-tains parlent, d'autres se taisent. 
+ []
+
+
+Overfull \hbox (5.80975pt too wide) in paragraph at lines 61--62
+\T1/lmr/m/it/20.74 des autres, si ce n'est les ombres
+ []
+
+
+Overfull \hbox (0.36551pt too wide) in paragraph at lines 61--62
+\T1/lmr/m/it/20.74 qui se pro-jettent, sous l'ef-fet du
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 32.01984pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.01984pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-12.01984pt}.
+
+[62]
+Overfull \hbox (0.1062pt too wide) in paragraph at lines 63--64
+[]\T1/lmr/m/it/20.74 qu'en est-il des ob-jets trans-por-
+ []
+
+
+Overfull \hbox (24.41576pt too wide) in paragraph at lines 63--64
+\T1/lmr/m/it/20.74 tés ? N'est-ce pas la même chose ? 
+ []
+
+
+Overfull \hbox (9.69836pt too wide) in paragraph at lines 65--66
+\T1/lmr/m/it/20.74 consi-dé-re-raient comme des êtres
+ []
+
+
+Overfull \hbox (1.48347pt too wide) in paragraph at lines 70--71
+[]\T1/lmr/m/n/20.74 Cette al-lé-go-rie vient nous ex-pli-quer que notre
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 32.01984pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.01984pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-12.01984pt}.
+
+[63]
+Overfull \hbox (18.31865pt too wide) in paragraph at lines 80--81
+\T1/lmr/m/n/20.74 plique certes une connais-sance par-faite de l'éthique
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 32.01984pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.01984pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-12.01984pt}.
+
+[64]
+Overfull \hbox (10.12175pt too wide) in paragraph at lines 82--83
+[]\T1/lmr/m/n/20.74 Un chré-tien convaincu vit aussi dans la convic-
+ []
+
+
+Overfull \hbox (5.82114pt too wide) in paragraph at lines 82--83
+\T1/lmr/m/n/20.74 alors que l'in-di-vidu, ne pou-vant de-ve-nir lui-même
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 32.01984pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.01984pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-12.01984pt}.
+
+[65]
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 32.01984pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.01984pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-12.01984pt}.
+
+[66]
+Chapitre 10.
+
+Overfull \hbox (4.77475pt too wide) in paragraph at lines 92--93
+[]\T1/lmr/m/n/20.74 Une ques-tion im-por-tante, tou-jours en vi-gueur
+ []
+
+
+Overfull \hbox (26.39769pt too wide) in paragraph at lines 92--93
+\T1/lmr/m/n/20.74 à notre époque, est celle de l'âme ou de la conscience
+ []
+
+
+Overfull \hbox (44.39738pt too wide) in paragraph at lines 92--93
+\T1/lmr/m/n/20.74 termes, une ma-chine peut-elle être ren-due consciente ?
+ []
+
+
+Underfull \vbox (badness 4391) has occurred while \output is active []
+
+ [67
+
+]
+Overfull \hbox (1.80196pt too wide) in paragraph at lines 96--97
+[]\T1/lmr/m/n/20.74 Certains pen-seurs comme Karl Marx ou Tho-
+ []
+
+
+Overfull \hbox (6.89609pt too wide) in paragraph at lines 96--97
+\T1/lmr/m/n/20.74 mas Hobbes ont émis l'as-ser-tion que la conscience
+ []
+
+
+Overfull \hbox (10.11096pt too wide) in paragraph at lines 98--99
+\T1/lmr/m/n/20.74 tel-li-gence ar-ti-fi-cielle. Pour au-tant, ces al-go-rithmes
+
+ []
+
+
+Overfull \hbox (0.64832pt too wide) in paragraph at lines 98--99
+\T1/lmr/m/n/20.74 conscients. D'ailleurs, un or-di-na-teur contrôlé par
+ []
+
+
+Overfull \hbox (32.86339pt too wide) in paragraph at lines 100--101
+[]\T1/lmr/m/n/20.74 Je ré-fute per-son-nel-le-ment l'idée que la conscience
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [68]
+[69]
+Overfull \hbox (13.3246pt too wide) in paragraph at lines 106--107
+[]\T1/lmr/m/n/20.74 Le propre des étants im-ma-té-riels reste, semble-
+ []
+
+
+Overfull \hbox (24.99733pt too wide) in paragraph at lines 108--109
+[]\T1/lmr/m/n/20.74 Cependant, je pense que ces mou-ve-ments d'élec-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [70]
+[71]
+Chapitre 11.
+
+Overfull \hbox (41.58232pt too wide) in paragraph at lines 112--112
+|\T1/lmr/bx/n/33 De la no-tion d'éthique dans
+ []
+
+
+Overfull \hbox (17.46017pt too wide) in paragraph at lines 116--117
+\T1/lmr/m/n/20.74 Ces m÷urs ont été for-cé-ment vues comme éthiques
+ []
+
+
+Underfull \vbox (badness 2103) has occurred while \output is active []
+
+ [72
+
+]
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 35.30484pt, for example:
+(fancyhdr)                \setlength{\headheight}{35.30484pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-15.30484pt}.
+
+[73]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 35.30484pt, for example:
+(fancyhdr)                \setlength{\headheight}{35.30484pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-15.30484pt}.
+
+[74]
+Overfull \hbox (2.81157pt too wide) in paragraph at lines 128--129
+\T1/lmr/m/n/20.74 groupe d'in-di-vi-dus de la même re-li-gion par-tagent
+ []
+
+
+Overfull \hbox (6.14833pt too wide) in paragraph at lines 128--129
+\T1/lmr/m/n/20.74 plu-sieurs re-li-gions co-ha-bitent au sein d'une même
+ []
+
+
+Overfull \hbox (6.0422pt too wide) in paragraph at lines 128--129
+\T1/lmr/m/n/20.74 éthiques. D'ailleurs, l'hu-ma-nisme est in-clu-sif avec
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 35.30484pt, for example:
+(fancyhdr)                \setlength{\headheight}{35.30484pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-15.30484pt}.
+
+[75]
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 35.30484pt, for example:
+(fancyhdr)                \setlength{\headheight}{35.30484pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-15.30484pt}.
+
+[76]
+Chapitre 12.
+
+Overfull \hbox (4.92569pt too wide) in paragraph at lines 134--135
+\T1/lmr/m/n/20.74 in-di-vi-duelles. Il est pour-tant suf-fi-sam-ment simple
+ []
+
+
+Underfull \vbox (badness 2103) has occurred while \output is active []
+
+ [77
+
+]
+Overfull \hbox (6.301pt too wide) in paragraph at lines 136--137
+[]\T1/lmr/m/n/20.74 Chaque ac-tion d'un in-di-vidu unique sera donc
+ []
+
+
+Overfull \hbox (20.7485pt too wide) in paragraph at lines 136--137
+\T1/lmr/m/n/20.74 per-çue comme po-si-tive, neutre ou né-ga-tive, éthique
+ []
+
+
+Overfull \hbox (18.49728pt too wide) in paragraph at lines 138--139
+[]\T1/lmr/m/n/20.74 Ces in-di-vi-dus mar-qués par cette ac-tion peuvent
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 32.01984pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.01984pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-12.01984pt}.
+
+[78]
+Overfull \hbox (9.56784pt too wide) in paragraph at lines 144--145
+\T1/lmr/m/n/20.74 nant part à cette ac-tion, mais aussi par les moyens
+ []
+
+
+Overfull \hbox (11.74878pt too wide) in paragraph at lines 146--147
+\T1/lmr/m/n/20.74 ré-pète ou de n'en ti-rer au-cun en-sei-gne-ment. Aussi,
+ []
+
+
+Overfull \hbox (1.7046pt too wide) in paragraph at lines 146--147
+\T1/lmr/m/n/20.74 l'ac-tion pas-sive d'un in-di-vidu reste tout de même
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 32.01984pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.01984pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-12.01984pt}.
+
+[79]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 32.01984pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.01984pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-12.01984pt}.
+
+[80]
+Overfull \hbox (0.41704pt too wide) in paragraph at lines 156--157
+\T1/lmr/m/n/20.74 di-vi-duelle ou col-lec-tive a lieu par l'in-fluence d'ac-
+ []
+
+
+Overfull \hbox (15.39473pt too wide) in paragraph at lines 156--157
+\T1/lmr/m/n/20.74 tion(s) an-té-rieure(s) ef-fec-tuée(s) par des per-sonnes
+ []
+
+
+Overfull \hbox (3.17479pt too wide) in paragraph at lines 156--157
+\T1/lmr/m/n/20.74 nos be-soins vi-taux ou vi-sant à l'auto-satisfaction.
+ []
+
+
+Overfull \hbox (8.97762pt too wide) in paragraph at lines 156--157
+\T1/lmr/m/n/20.74 entre les in-di-vi-dus exé-cu-tant l'ac-tion, et des règles
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 32.01984pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.01984pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-12.01984pt}.
+
+[81]
+Overfull \hbox (3.67755pt too wide) in paragraph at lines 160--161
+\T1/lmr/m/n/20.74 ac-tions hu-maines col-lec-tives comme in-di-vi-duelles
+ []
+
+
+Overfull \hbox (7.5314pt too wide) in paragraph at lines 160--161
+\T1/lmr/m/n/20.74 de-vien-draient in-har-mo-nieuses et in-ef-fi-caces. C'est
+ []
+
+
+Overfull \hbox (8.84282pt too wide) in paragraph at lines 162--163
+[]\T1/lmr/m/n/20.74 L'éthique com-mune, l'en-semble de règles com-
+ []
+
+
+Overfull \hbox (9.1203pt too wide) in paragraph at lines 162--163
+\T1/lmr/m/n/20.74 munes ou par-ti-cu-lières, une com-mu-ni-ca-tion adap-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 32.01984pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.01984pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-12.01984pt}.
+
+[82]
+Overfull \hbox (3.08977pt too wide) in paragraph at lines 164--165
+\T1/lmr/m/n/20.74 source d'éner-gie ori-gi-nelle, puis une mise en mou-
+ []
+
+
+Overfull \hbox (3.197pt too wide) in paragraph at lines 170--171
+\T1/lmr/m/n/20.74 no-tam-ment les ac-tions col-lec-tives et in-di-vi-duelles
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 32.01984pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.01984pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-12.01984pt}.
+
+[83]
+Overfull \hbox (10.31354pt too wide) in paragraph at lines 174--175
+[]\T1/lmr/m/n/20.74 Pour ré-su-mer, les ac-tions per-son-nelles ou com-
+ []
+
+
+Overfull \hbox (16.76697pt too wide) in paragraph at lines 178--179
+\T1/lmr/m/n/20.74 adap-tée pos-sible pour qu'un in-di-vidu ou un groupe
+ []
+
+
+Overfull \hbox (7.99129pt too wide) in paragraph at lines 178--179
+\T1/lmr/m/n/20.74 par-viennent à leurs fins. Le choix du terme "gram-
+ []
+
+
+Overfull \hbox (9.59094pt too wide) in paragraph at lines 178--179
+\T1/lmr/m/n/20.74 tions im-par-faites d'un lan-gage pou-vant être consi-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 32.01984pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.01984pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-12.01984pt}.
+
+[84]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 32.01984pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.01984pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-12.01984pt}.
+
+[85]
+Overfull \hbox (3.71774pt too wide) in paragraph at lines 189--189
+\T1/lmr/m/it/20.74 des-cends ! Car ton peuple s'est cor-
+ []
+
+
+Overfull \hbox (2.6808pt too wide) in paragraph at lines 189--189
+\T1/lmr/m/it/20.74 rompu, ce peuple que tu as fait sor-
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 32.01984pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.01984pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-12.01984pt}.
+
+[86]
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 32.01984pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.01984pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-12.01984pt}.
+
+[87]
+Chapitre 13.
+
+Overfull \hbox (11.93727pt too wide) in paragraph at lines 197--197
+|\T1/lmr/bx/n/33 Opinion sur les pro-phètes
+ []
+
+
+Overfull \hbox (0.85149pt too wide) in paragraph at lines 201--202
+[]\T1/lmr/m/n/20.74 Néanmoins, cer-tains au-raient pu être at-teints
+ []
+
+
+Underfull \vbox (badness 1077) has occurred while \output is active []
+
+ [88
+
+]
+Overfull \hbox (12.89085pt too wide) in paragraph at lines 211--212
+[]\T1/lmr/m/n/20.74 Il reste en-core que cette en-tre-prise de construc-
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 35.30484pt, for example:
+(fancyhdr)                \setlength{\headheight}{35.30484pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-15.30484pt}.
+
+[89]
+Chapitre 14.
+
+Overfull \hbox (4.9537pt too wide) in paragraph at lines 213--213
+|\T1/lmr/bx/n/33 Solidité des dix com-man-
+ []
+
+
+Overfull \hbox (18.12671pt too wide) in paragraph at lines 217--218
+\T1/lmr/m/n/20.74 nisme", Cha-teau-briand com-pare les dif-fé-rents équi-
+ []
+
+[90
+
+]
+Overfull \hbox (13.22618pt too wide) in paragraph at lines 229--230
+[]\T1/lmr/m/n/20.74 Admets la femme dans tes conseils. 
+ []
+
+
+Overfull \hbox (2.99072pt too wide) in paragraph at lines 234--235
+[]\T1/lmr/m/n/20.74 Honore le vieillard, et que le jeune
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 35.30484pt, for example:
+(fancyhdr)                \setlength{\headheight}{35.30484pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-15.30484pt}.
+
+[91]
+Overfull \hbox (1.15916pt too wide) in paragraph at lines 246--247
+[]\T1/lmr/m/n/20.74 "Cnef, dieu uni-ver-sel, té-nèbres in-
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 35.30484pt, for example:
+(fancyhdr)                \setlength{\headheight}{35.30484pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-15.30484pt}.
+
+[92]
+Overfull \hbox (10.99544pt too wide) in paragraph at lines 267--268
+\T1/lmr/m/n/20.74 ai-je été ? Qu'ai-je fait ? Qu'aurais-
+ []
+
+
+Overfull \hbox (7.76099pt too wide) in paragraph at lines 268--269
+[]\T1/lmr/m/n/20.74 Ainsi, après une vie sainte, lorsque
+ []
+
+
+Overfull \hbox (11.28358pt too wide) in paragraph at lines 268--269
+\T1/lmr/m/n/20.74 ton corps re-tour-nera aux élé-ments,
+ []
+
+
+Overfull \hbox (2.0761pt too wide) in paragraph at lines 268--269
+\T1/lmr/m/n/20.74 rup-tible : tu ne pour-ras plus mou-
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 35.30484pt, for example:
+(fancyhdr)                \setlength{\headheight}{35.30484pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-15.30484pt}.
+
+[93]
+Overfull \hbox (2.08618pt too wide) in paragraph at lines 274--275
+[]\T1/lmr/bx/n/20.74 Les dix com-man-de-ments (tra-duc-tion
+ []
+
+
+Overfull \hbox (4.41145pt too wide) in paragraph at lines 278--280
+\T1/lmr/m/n/20.74 loux, qui pu-nis l'ini-quité des pères
+ []
+
+
+Overfull \hbox (5.31702pt too wide) in paragraph at lines 280--281
+\T1/lmr/m/n/20.74 L'Éter-nel ne lais-sera point im-puni
+ []
+
+
+Overfull \hbox (5.75809pt too wide) in paragraph at lines 280--281
+\T1/lmr/m/n/20.74 ce-lui qui pren-dra son nom en vain. 
+ []
+
+
+Underfull \vbox (badness 5050) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 35.30484pt, for example:
+(fancyhdr)                \setlength{\headheight}{35.30484pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-15.30484pt}.
+
+[94]
+Overfull \hbox (7.0592pt too wide) in paragraph at lines 281--282
+[]\T1/lmr/m/n/20.74 souviens-toi du jour du re-pos pour
+ []
+
+
+Overfull \hbox (21.73915pt too wide) in paragraph at lines 281--282
+\T1/lmr/m/n/20.74 le sanc-ti-fier. tu tra-vaille-ras six jours,
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 35.30484pt, for example:
+(fancyhdr)                \setlength{\headheight}{35.30484pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-15.30484pt}.
+
+[95]
+Overfull \hbox (5.09612pt too wide) in paragraph at lines 287--288
+\T1/lmr/m/n/20.74 son de ton pro-chain ; tu ne convoi-
+ []
+
+
+Overfull \hbox (11.86516pt too wide) in paragraph at lines 296--297
+[]\T1/lmr/m/n/20.74 Certaines re-li-gions n'ad-mettent pas l'exis-tence
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 35.30484pt, for example:
+(fancyhdr)                \setlength{\headheight}{35.30484pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-15.30484pt}.
+
+[96]
+Overfull \hbox (17.14159pt too wide) in paragraph at lines 302--303
+\T1/lmr/m/n/20.74 ci-vi-li-sa-tion. L'ap-pli-ca-tion des dix com-man-de-ments
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 35.30484pt, for example:
+(fancyhdr)                \setlength{\headheight}{35.30484pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-15.30484pt}.
+
+[97]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 35.30484pt, for example:
+(fancyhdr)                \setlength{\headheight}{35.30484pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-15.30484pt}.
+
+[98]
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 35.30484pt, for example:
+(fancyhdr)                \setlength{\headheight}{35.30484pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-15.30484pt}.
+
+[99])
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 35.30484pt, for example:
+(fancyhdr)                \setlength{\headheight}{35.30484pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-15.30484pt}.
+
+[100]
+\openout2 = `livre3.aux'.
+
+ (./livre3.tex [101
+
+
+
+
+]
+Chapitre 15.
+
+Overfull \hbox (1.14902pt too wide) in paragraph at lines 3--3
+|\T1/lmr/bx/n/33 La grande usur-pa-tion sa-
+ []
+
+
+Underfull \vbox (badness 2103) has occurred while \output is active []
+
+ [102
+
+]
+Overfull \hbox (2.07494pt too wide) in paragraph at lines 9--10
+\T1/lmr/m/n/20.74 phiques et théo-lo-giques ont glo-ba-le-ment che-miné
+ []
+
+
+Overfull \hbox (25.23105pt too wide) in paragraph at lines 28--29
+\T1/lmr/m/n/20.74 tude, alors que cette as-ser-tion ré-sulte d'une ébauche
+ []
+
+
+Overfull \hbox (25.54323pt too wide) in paragraph at lines 28--29
+\T1/lmr/m/n/20.74 mal-adroite de rai-son-ne-ment phi-lo-so-phique (puisque
+ []
+
+[103]
+Overfull \hbox (5.6515pt too wide) in paragraph at lines 34--35
+[]\T1/lmr/m/n/20.74 Ces as-ser-tions contem-po-raines n'ont que pour
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [104]
+Overfull \hbox (22.00479pt too wide) in paragraph at lines 36--37
+\T1/lmr/m/n/20.74 des ques-tions éthiques, po-li-tiques, mé-ta-phy-siques...
+ []
+
+
+Overfull \hbox (6.47685pt too wide) in paragraph at lines 38--39
+[]\T1/lmr/m/n/20.74 Laissons-les donc en-li-ser nos ci-vi-li-sa-tions dans
+ []
+
+
+Overfull \hbox (5.11514pt too wide) in paragraph at lines 40--41
+\T1/lmr/m/n/20.74 les écrits re-li-gieux et no-tam-ment bi-bliques. N'est-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [105]
+Overfull \hbox (5.11435pt too wide) in paragraph at lines 47--48
+[]\T1/lmr/m/n/20.74 Selon Aris-tote, la hié-rar-chie des sciences théo-
+ []
+
+
+Overfull \hbox (7.08138pt too wide) in paragraph at lines 51--52
+\T1/lmr/m/n/20.74 cipes fon-da-men-taux qui gou-vernent la ma-
+ []
+
+[106]
+Overfull \hbox (7.74794pt too wide) in paragraph at lines 61--62
+\T1/lmr/m/n/20.74 pondent en-fin à la ques-tion et ap-portent la preuve
+ []
+
+[107]
+Overfull \hbox (15.18892pt too wide) in paragraph at lines 71--72
+[]\T1/lmr/m/n/20.74 Dans nos so-cié-tés contem-po-raines, avec l'émer-
+ []
+
+[108]
+Overfull \hbox (9.69997pt too wide) in paragraph at lines 73--74
+[]\T1/lmr/m/n/20.74 Erreurs après er-reurs, vic-toires après vic-toires,
+ []
+
+
+Overfull \hbox (25.43971pt too wide) in paragraph at lines 75--76
+[]\T1/lmr/m/n/20.74 Vous l'au-rez com-pris, pour ma part, les "sciences
+ []
+
+
+Overfull \hbox (8.4517pt too wide) in paragraph at lines 79--79
+[]\T1/lmr/m/it/20.74 "Un peu de science éloigne de Dieu,
+ []
+
+[109]
+Chapitre 16.
+
+Overfull \hbox (44.66098pt too wide) in paragraph at lines 82--82
+|\T1/lmr/bx/n/33 Sur l'ap-pli-ca-tion de la théo-
+ []
+
+
+Overfull \hbox (8.28938pt too wide) in paragraph at lines 82--82
+\T1/lmr/bx/n/33 rie du sur-homme dans les
+ []
+
+[110
+
+]
+Overfull \hbox (0.16843pt too wide) in paragraph at lines 88--89
+[]\T1/lmr/m/n/20.74 Il est à no-ter que Nietzsche pos-sé-dait d'abord
+ []
+
+
+Overfull \hbox (1.72751pt too wide) in paragraph at lines 88--89
+\T1/lmr/m/n/20.74 une for-ma-tion de phi-lo-logue et donc une connais-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 52.30484pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.30484pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-32.30484pt}.
+
+[111]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 52.30484pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.30484pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-32.30484pt}.
+
+[112]
+Overfull \hbox (29.61472pt too wide) in paragraph at lines 103--104
+\T1/lmr/m/n/20.74 par l'Église ca-tho-lique, puisque to-ta-le-ment contraire
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 52.30484pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.30484pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-32.30484pt}.
+
+[113]
+Overfull \hbox (2.98117pt too wide) in paragraph at lines 109--110
+[]\T1/lmr/m/n/20.74 Pour ma part, je ne vois pas Nietzsche comme
+ []
+
+
+Overfull \hbox (12.07068pt too wide) in paragraph at lines 113--114
+[]\T1/lmr/m/n/20.74 La conclu-sion s'ob-serve donc di-rec-te-ment dans
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 52.30484pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.30484pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-32.30484pt}.
+
+[114]
+Overfull \hbox (16.2102pt too wide) in paragraph at lines 117--117
+[]\T1/lmr/m/it/20.74 "Qu'est le singe pour l'homme ? Une
+ []
+
+
+Overfull \hbox (4.75482pt too wide) in paragraph at lines 117--117
+\T1/lmr/m/it/20.74 dé-ri-sion ou une honte dou-lou-reuse.
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 52.30484pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.30484pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-32.30484pt}.
+
+[115]
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 52.30484pt, for example:
+(fancyhdr)                \setlength{\headheight}{52.30484pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-32.30484pt}.
+
+[116]
+Chapitre 17.
+
+Underfull \vbox (badness 2103) has occurred while \output is active []
+
+ [117
+
+]
+Overfull \hbox (1.95206pt too wide) in paragraph at lines 134--135
+[]\T1/lmr/m/it/20.74 "Il n'y a de plai-sir que dans le boire
+ []
+
+
+Overfull \hbox (14.0543pt too wide) in paragraph at lines 138--141
+[]\T1/lmr/m/n/20.74 Ces in-té-rêts peuvent to-ta-le-ment di-ver-ger d'une
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 35.30484pt, for example:
+(fancyhdr)                \setlength{\headheight}{35.30484pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-15.30484pt}.
+
+[118]
+Overfull \hbox (0.69136pt too wide) in paragraph at lines 142--143
+\T1/lmr/m/n/20.74 ma-gna-ni-mité, la puis-sance et la gran-deur comme
+ []
+
+
+Overfull \hbox (6.4985pt too wide) in paragraph at lines 144--145
+\T1/lmr/m/n/20.74 plei-ne-ment et mon élé-va-tion spi-ri-tuelle. Le simple
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 35.30484pt, for example:
+(fancyhdr)                \setlength{\headheight}{35.30484pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-15.30484pt}.
+
+[119]
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 35.30484pt, for example:
+(fancyhdr)                \setlength{\headheight}{35.30484pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-15.30484pt}.
+
+[120]
+Chapitre 18.
+
+Underfull \vbox (badness 1077) has occurred while \output is active []
+
+ [121
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 32.01984pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.01984pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-12.01984pt}.
+
+[122]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 32.01984pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.01984pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-12.01984pt}.
+
+[123]
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 32.01984pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.01984pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-12.01984pt}.
+
+[124]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 32.01984pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.01984pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-12.01984pt}.
+
+[125]
+Overfull \hbox (12.34802pt too wide) in paragraph at lines 192--193
+[]\T1/lmr/m/n/20.74 Je crois pos-sible cette apo-ca-lypse. Constatons-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 32.01984pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.01984pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-12.01984pt}.
+
+[126]
+Overfull \hbox (0.33417pt too wide) in paragraph at lines 198--199
+[]\T1/lmr/m/n/20.74 Les Vi-kings avaient rai-son de croire que toute
+ []
+
+
+Overfull \hbox (0.72977pt too wide) in paragraph at lines 198--199
+\T1/lmr/m/n/20.74 lais-sons in-évi-ta-ble-ment une em-preinte spi-ri-tuelle
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 32.01984pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.01984pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-12.01984pt}.
+
+[127]
+Overfull \hbox (11.53156pt too wide) in paragraph at lines 206--207
+[]\T1/lmr/m/n/20.74 N'ayant au-cun point de vue ma-té-ria-liste, l'uni-
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 32.01984pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.01984pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-12.01984pt}.
+
+[128])
+Overfull \hbox (16.769pt too wide) in paragraph at lines 212--135
+[]\T1/lmr/m/n/20.74 Dans le ca-tho-li-cisme contem-po-rain, il est consi-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 32.01984pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.01984pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-12.01984pt}.
+
+[129]
+
+Package fancyhdr Warning: \headheight is too small (20.0pt): 
+(fancyhdr)                Make it at least 32.01984pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.01984pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-12.01984pt}.
+
+[130] (./essai livre.aux (./livre1.aux) (./livre2.aux) (./livre3.aux))
+Package rerunfilecheck Info: File `"essai livre".out' has not changed.
+(rerunfilecheck)             Checksum: C8A6D60295A5C1E17BF3B89738E760D8;7465.
+ ) 
+Here is how much of TeX's memory you used:
+ 13598 strings out of 477314
+ 217589 string characters out of 5819948
+ 1857330 words of memory out of 5000000
+ 33416 multiletter control sequences out of 15000+600000
+ 577548 words of font info for 64 fonts, out of 8000000 for 9000
+ 417 hyphenation exceptions out of 8191
+ 75i,13n,76p,1643b,687s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dv
+ips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share
+/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm
+/lmbxi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi12.pfb></usr/share/tex
+mf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr1
+7.pfb></usr/share/texmf/fonts/type1/public/lm/lmri12.pfb>
+Output written on "essai livre.pdf" (130 pages, 324802 bytes).
+PDF statistics:
+ 770 PDF objects out of 1000 (max. 8388607)
+ 596 compressed objects within 6 object streams
+ 154 named destinations out of 1000 (max. 500000)
+ 174 words of extra memory for PDF output out of 10000 (max. 10000000)
+

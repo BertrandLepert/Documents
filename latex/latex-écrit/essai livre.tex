@@ -1,0 +1,137 @@
+\documentclass[20pt, twoside, openany]{extbook}
+\usepackage[T1]{fontenc}
+\usepackage[french]{babel}
+\usepackage[utf8]{inputenc}
+
+
+\usepackage{lmodern}
+\usepackage{import}
+\usepackage{titlesec}
+\usepackage{titletoc}
+\usepackage{graphicx}
+\usepackage{hyperref}
+
+
+
+\titlecontents{chapter}[0em]{\vspace{0.5ex}}{\footnotesize\contentslabel{1.4em}}{}{\hfill\footnotesize\contentspage}
+\titlecontents{part}[0em]{\vspace{3ex}}{\bfseries\LARGE\contentslabel{1em}}{}{\hfill\small\bfseries\contentspage}
+
+
+\usepackage[a4paper, total={13.8cm, 20cm}]{geometry}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+
+\fancyhf{}
+\fancyhead[LE,RO]{}
+\fancyhead[RE]{\footnotesize{\leftmark}}
+\fancyhead[LO]{\footnotesize{\leftmark}}
+\fancyfoot[C]{\thepage}
+
+
+
+\usepackage{pdfpages}
+\usepackage{lineno}
+%\usepackage{multicol}
+%\usepackage{lastpage}
+
+
+
+\renewcommand\headrulewidth{1pt}
+\titleformat{\part}[display]{\bf\Large\centering}{  Livre \thepart :}{2pc}{}
+\titleformat{\chapter}[display]{\fontsize{33pt}{33pt}\selectfont \bfseries}{Chapitre \thechapter}{2pc}{}
+
+
+\makeatletter
+\renewcommand{\maketitle}{%
+    \vspace*{1cm}% ICI La taille que tu veux avant le titre
+    \begin{center}%
+    
+    {\large
+     %\lineskip .75em%
+      \begin{tabular}[t]{c}%
+       \small \@author
+      \end{tabular}\par}%
+      \vskip 5em%
+    {\large \@date \par}%       % Set date in \large size.
+ 
+    {{\LARGE \@title} \par}%
+    \vskip 3em%
+ 	
+ 	\includegraphics[keepaspectratio=true, height = 3.3 cm]{arbre.jpg}
+    
+    \end{center}\par
+    \vskip 3em%
+}
+\makeatother
+
+
+\title{Essai sur l'existence et la nature du divin}
+\author{Bertrand LEPERT}
+\date{}
+
+
+
+
+\begin{document}
+
+
+\thispagestyle{empty}
+\maketitle
+\newpage
+\thispagestyle{empty}
+
+
+\vspace*{\stretch{1}}
+\begin{center}
+\begin{Large}
+\textit{\`A Dieu, \\ 
+à ma femme \\ 
+\vspace{10pt}
+et à ma famille proche.} 
+\end{Large}
+\end{center}
+\vspace*{\stretch{1}}
+
+
+
+\chapter*{Avant propos}
+\thispagestyle{empty}
+
+Ce livre a été écrit pour mettre en avant et partager certaines de mes croyances ontologiques et religieuses qui me sont particulièrement chères. Je suis conscient que certains passages peuvent sembler directifs, donc le lecteur est invité à ne pas adhérer aux propos qu'il juge trop insistants, incisifs ou même caduques.
+
+Je me suis efforcé de rendre cet écrit le plus accessible possible, mais certains chapitres peuvent être difficiles à lire pour des lecteurs non initiés aux écrits philosophiques. Une compréhension incomplète de ces chapitres n’empêche pas la compréhension générale de l'ouvrage.
+
+Cet essai est avant tout un partage, et son auteur reste très ouvert à la critique tant qu'elle reste constructive. Il est donc important que le lecteur garde un esprit critique à propos de cet écrit. Libre à lui d'adhérer ou non à l'ensemble ou à certaines parties des propos qui y figurent.
+
+Je n'ai pas rédigé ce manuscrit dans le but de faire adhérer à ma pensée. Néanmoins, étant persuadé d'observer un déclin et une carence spirituelle dans nos sociétés, convaincu du danger que cela représente, et persuadé qu'aucune civilisation ne peut subsister sans religion, j’écris également dans l'espoir d'exercer une sorte de médecine que je juge nécessaire.
+
+Le lecteur est donc chaleureusement invité à considérer à la fois la gravité du thème et la légèreté des différents livres et chapitres qui composent cet ouvrage.
+
+\thispagestyle{empty}
+
+\clearpage
+
+\thispagestyle{empty}
+
+\vspace*{\stretch{1}}
+\begin{center}
+\begin{quote}
+\textbf{\textit{"La nature d'une civilisation, c'est ce qui s'agrège autour d'une religion."}}
+\end{quote} 
+\vfill\textbf{Paul Valéry.}
+\end{center}
+\vspace*{\stretch{1}}
+
+\renewcommand{\contentsname}{Sommaire}
+\tableofcontents
+
+
+
+\include{livre1}
+
+\include{livre2}
+
+\include{livre3}
+
+\end{document}
